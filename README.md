@@ -12,5 +12,7 @@
 - [x] Add clap command line parsing for arguments
 - [ ] Based on the request library in Rust to get the NBA game live score
 
+## Usage
 `cd spider`
+
 `cargo run`
