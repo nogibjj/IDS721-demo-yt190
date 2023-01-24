@@ -1,6 +1,16 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Topic: Web crawler for NBA live scores
 
-## References
+# In processing
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+## Week 1: 
+
+- [x] Configure GitHub codespace (Copilot, Makefile, ...)
+- [x] Develop my first Rust project
+- [x] Be familiar with how to programming in Rust
+- [ ] Get the NBA API resources
+- [ ] Link to http and parse in html
+- [x] Add clap command line parsing for arguments
+- [ ] Based on the request library in Rust to get the NBA game live score
+
+`cd spider`
+`cargo run`

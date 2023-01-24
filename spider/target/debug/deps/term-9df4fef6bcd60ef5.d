@@ -1,0 +1,12 @@
+/workspaces/hello-rust-yt190/spider/target/debug/deps/term-9df4fef6bcd60ef5.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/searcher.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/parser/compiled.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/parser/names.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/parm.rs
+
+/workspaces/hello-rust-yt190/spider/target/debug/deps/libterm-9df4fef6bcd60ef5.rlib: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/searcher.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/parser/compiled.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/parser/names.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/parm.rs
+
+/workspaces/hello-rust-yt190/spider/target/debug/deps/term-9df4fef6bcd60ef5.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/searcher.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/parser/compiled.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/parser/names.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/parm.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/mod.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/searcher.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/parser/compiled.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/parser/names.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/term-0.7.0/src/terminfo/parm.rs:
