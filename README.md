@@ -1,6 +1,7 @@
 # Topic: Web crawler for NBA live scores
 
-# In processing
+## Introduction
+As an NBA fan, the most concerned thing is the progress of each game. Suppose you just want to know the game's score and do not want to be disturbed by the information on the cluttered website. This demo will be perfect for you. All you need to do is open the demo and type in `cargo run`, then the game scores will appear in your console. This demo is still in its early stages. I am still working on it and updating other features.
 
 ## Week 1: 
 
