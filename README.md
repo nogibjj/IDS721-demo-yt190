@@ -3,7 +3,7 @@
 ## Introduction
 As an NBA fan, the most concerned thing is the progress of each game. Suppose you just want to know the game's score and do not want to be disturbed by the information on the cluttered website. This demo will be perfect for you. All you need to do is open the demo and type in `cargo run`, then the game scores will appear in your console. This demo is still in its early stages. I am still working on it and updating other features.
 
-## Week 1: 
+## Week 1
 
 - [x] Configure GitHub codespace (Copilot, Makefile, ...)
 - [x] Develop my first Rust project
@@ -14,8 +14,14 @@ As an NBA fan, the most concerned thing is the progress of each game. Suppose yo
 - [x] Check the resource code and Extracting Information from HTML
 - [x] Based on the request library in Rust to get the NBA game live score
 - [x] Used iterator and closures to simplify code
-- [ ] Refine the .gitignore file
+
+## Week 2
+- [X] Refine the .gitignore file
+- [X] Explore more feature on the NBA website
+- [X] Finished two recommended Coursera classes this week
+- [X] Read five chapter Rust book (The Rust Programming Language)
 - [ ] Consider the game hasn't started yet - no score only team names
+- [ ] Still debugging with the CSS Selector
 
 ## Usage
 `cd spider`

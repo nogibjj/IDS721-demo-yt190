@@ -13,3 +13,9 @@ Cargo.lock
 # Added by cargo
 
 /target
+
+.vscode
+development.sqlite3
+node_modules/
+vendor/
+cargo/
