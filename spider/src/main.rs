@@ -16,17 +16,26 @@ fn main() {
     elements.for_each(|x| {
         let name_selector = Selector::parse("div.ScoreCell__TeamName").unwrap();
         let score_selector = Selector::parse("div.ScoreCell__Score").unwrap();
-
+        // let date_selector = Selector::parse("div.Card__Header__Title__Wrapper>h3").unwrap();
+        // let mvp_selector = Selector::parse("div.Scoreboard__Column>a").unwrap();
         let doc = Html::parse_document(&x);
 
         let mut name_iter = doc.select(&name_selector).map(|x| x.inner_html());
         let mut score_iter = doc.select(&score_selector).map(|x| x.inner_html());
+        // let mut mvp_iter = doc.select(&mvp_selector).map(|x| x.inner_html());
+        // let mut date_iter = doc.select(&date_selector).map(|x| x.inner_html());
+
+        // let date = date_iter.next().unwrap();
+        // let mvp1 = mvp_iter.next().unwrap();
+        // let mvp2 = mvp_iter.next().unwrap();
 
         let team1 = name_iter.next().unwrap();
         let team2 = name_iter.next().unwrap();
 
         let score1 = score_iter.next().unwrap();
         let score2 = score_iter.next().unwrap();
+
+        // println!("{}({})", mvp1, mvp2);
         println!("{}({}) vs {}({})", team1, score1, team2, score2);
 
         ()
