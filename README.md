@@ -22,7 +22,7 @@ As an NBA fan, the most concerned thing is the progress of each game. Suppose yo
 - [X] Read five chapter Rust book (The Rust Programming Language)
 - [ ] Consider the game hasn't started yet - no score only team names
 - [ ] Still debugging with the CSS Selector
-
+- [ ] Connect with cloud service
 ## Usage
 `cd spider`
 
