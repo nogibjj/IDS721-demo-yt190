@@ -1,4 +1,4 @@
-# kt-rs
+# kt
 
 A drop-in cat replacement written in Rust.
 
@@ -15,9 +15,7 @@ This project uses `Rust` and `Cargo`, so make sure that you have the [Rust toolc
 ## Installation
 
 ```
-$ cd Development/
-$ git clone git@github.com:jveillet/kt-rs.git
-$ cd kt-rs/
+$ cd kt
 $ cargo build --release
 $ cargo install --path .
 ```
@@ -27,7 +25,7 @@ $ cargo install --path .
 ```
 $ kt --help
 kt 0.1.0
-Jérémie Veillet. @jveillet
+Toby Tao
 A drop-in cat replacement written in Rust
 
 USAGE:

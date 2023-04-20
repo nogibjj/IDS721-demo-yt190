@@ -28,3 +28,10 @@ As an NBA fan, the most concerned thing is the progress of each game. Suppose yo
 
 `cargo run`
 
+# Week 2 mini Rust project: 
+
+## A drop-in cat replacement written in Rust.
+
+```
+$ cd kt
+```
