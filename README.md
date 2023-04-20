@@ -28,5 +28,3 @@ As an NBA fan, the most concerned thing is the progress of each game. Suppose yo
 
 `cargo run`
 
-
-![Success](./image/Snip20230414_32.png)
